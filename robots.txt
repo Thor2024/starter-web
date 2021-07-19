@@ -1,4 +1,4 @@
 # robotstxt.org/
-Hello Chicken
+Hello Robot
 
 User-agent: *
