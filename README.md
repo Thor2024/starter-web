@@ -1,4 +1,4 @@
-# Starter Web Project
+# Starter Web Project - Adding conflicting changes
 This is a simple website project for showing how to use Git and Github together.
 
 ## Introduction
