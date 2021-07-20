@@ -1,4 +1,4 @@
 # robotstxt.org/
-Hello Robot
+Thanks to all my students.
 
 User-agent: *
