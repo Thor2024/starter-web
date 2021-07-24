@@ -17,3 +17,4 @@ Please fork this repository and then issue Pull requests for review.
 ### Copyright
 Copyright notice. All rights reserved.
 Emergency fix!
+All rights reservedly reserved.
